@@ -1,4 +1,11 @@
 mode: set
+github.com/olsmca/dataStructureGo/queue.go:9.32,11.2 1 1
+github.com/olsmca/dataStructureGo/queue.go:13.37,15.2 1 1
+github.com/olsmca/dataStructureGo/queue.go:17.42,18.17 1 1
+github.com/olsmca/dataStructureGo/queue.go:18.17,20.3 1 1
+github.com/olsmca/dataStructureGo/queue.go:20.8,24.3 3 1
+github.com/olsmca/dataStructureGo/queue.go:27.28,29.2 1 1
+github.com/olsmca/dataStructureGo/queue.go:31.35,33.2 1 1
 github.com/olsmca/dataStructureGo/stack.go:7.32,9.2 1 1
 github.com/olsmca/dataStructureGo/stack.go:11.34,13.2 1 1
 github.com/olsmca/dataStructureGo/stack.go:15.38,16.17 1 1

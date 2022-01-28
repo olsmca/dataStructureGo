@@ -5,7 +5,7 @@ import "fmt"
 type Stack []string
 
 func (s *Stack) isEmpty() bool {
-	return len(*s) == 0
+	return s.Size() == 0
 }
 
 func (s *Stack) Push(str string) {
@@ -16,7 +16,7 @@ func (s *Stack) Pop() (string, bool) {
 	if s.isEmpty() {
 		return "", true
 	} else {
-		index := len(*s) - 1
+		index := s.Size() - 1
 		element := (*s)[index]
 		*s = (*s)[:index]
 		return element, false
